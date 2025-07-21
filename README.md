@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/radhitchocs/radhitchocs/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/radhitchocs/radhitchocs/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
